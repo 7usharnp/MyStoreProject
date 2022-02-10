@@ -72,7 +72,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>1.6.0</version>
 			</plugin>
-			<!-- <plugin>
+			 <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M4</version>
@@ -84,7 +84,7 @@
 						<appURL>${url}</appURL>
 					</systemPropertyVariables>
 				</configuration>
-			</plugin> -->
+			</plugin> 
 		</plugins>
 
 	</build>
